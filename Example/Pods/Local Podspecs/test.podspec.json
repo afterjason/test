@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "summary": "A short description of test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jasonmar/test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jasonmar": "jasonmar@spboss.com"
+  },
+  "source": {
+    "git": "https://github.com/jasonmar/test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "test/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "requires_arc": true
+}
